@@ -1,0 +1,11 @@
+footer{
+    background-color: #920a0a;
+    color: antiquewhite;
+    font-size: 13px;
+}
+footer a{
+    color: antiquewhite;
+}
+footer a:hover{
+    color: rgb(192, 192, 11);
+}

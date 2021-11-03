@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.loghome{
+    background-color: #009A4E;
+    border-radius: 10px;
+    padding:2px;  
+}
+.navbar{
+    position: fixed!important;
+    width: 100%;
+    z-index: 10;
+    background-color: rgba(83, 83, 83, 0.2);
+}
+.navbar-brand{
+    color: white!important;
+}
+.nav-link{
+    color: white!important;
+    font-size: 14px;
+    font-weight: 300;
+    margin-right: 8px;
+    text-align: center;
+    border-radius: 1px solid white;
+}
+.nav-link.active{
+    
+    font-weight: 500;
+    
+}
+.nav-link:hover:not(.nav-link.active){
+    transform: scale(1.2);
+}
+
+#Signup:hover{
+    color: black!important;
+    background-color: rgb(209, 255, 4);
+    transform: scale(1.1);
+    
+}
