@@ -142,8 +142,8 @@ section{
 
 .mulStates img{
     box-shadow: -2px 3px 20px black;
-    /* max-height: 350px; */
-    max-height: 50vh;
+    max-height: 350px; 
+   /* max-height: 50vh;*/
 }
 .mulStates img:hover{
     transform: scale(1.01);
