@@ -109,6 +109,7 @@ path:hover:not(#one){
     background-color: rgba(146, 11, 11, 0.808);
     font-family: 'Montserrat', sans-serif!important;
     color: white;
+    height:400px;
     
 }
 .destination .card:hover{
@@ -116,7 +117,7 @@ path:hover:not(#one){
 }
 .destination img
 {
-    max-height:35vh;
+    height:350px;
     object-fit: cover;
     border-radius: 15px;
     
