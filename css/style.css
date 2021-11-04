@@ -172,12 +172,15 @@ section{
     color: white;
     
 }
+.card{
+    height: 400px;
+}
 .destination .card:hover{
     transform: scale(0.9500);
 }
 .destination img
 {
-    height:35vh;
+    height:350px;
     object-fit: cover;
     border-radius: 15px;
     
