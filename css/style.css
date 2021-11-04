@@ -186,3 +186,11 @@ section{
     
 }
 /* ---------------End Carousel Style -----------------*/
+
+/* --------------Map---------------- */
+.map{
+    background-color: rgba(146, 11, 11, 0.808);
+}
+.map img{
+    width: 100%;
+}
