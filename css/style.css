@@ -138,7 +138,9 @@ section{
 .mulStates a{
     color: white!important;
 }
-
+.mulStates button{
+    color: white!important;
+}
 
 .mulStates img{
     box-shadow: -2px 3px 20px black;
