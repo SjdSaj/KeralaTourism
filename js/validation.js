@@ -280,7 +280,7 @@ function formSubmit(event) {
     //     alert('Enter a password that meets the requirement');
     // }
     if(ValidateEmail() && ValidatePswd()&& ValidatePhn()){
-        alert('all done');
+        alert('Signup Successfull');
     
     } else if (ValidateEmail() && ValidatePswd()) {
         alert('enter a valid phone number');
